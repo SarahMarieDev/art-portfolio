@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
     text: |
-      More to come!
+      Stay tuned for more projects...
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
