@@ -79,7 +79,7 @@
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
-        "copyrightText": "",
+        "copyrightText": "Copyright @ 2024\n",
         "styles": {
             "self": {
                 "width": "narrow",
