@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m a developer, digital artist, and consultant.'
-    subtitle: This is a collection of my artworks.
+    subtitle: 'This is a collection of my artworks, enjoy!'
     styles:
       self:
         height: auto
