@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-d
     backgroundSize: full
     title: 'I’m a developer, digital artist, and consultant.'
     subtitle: 'This is a collection of my artworks, enjoy!'
