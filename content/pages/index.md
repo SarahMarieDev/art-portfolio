@@ -52,7 +52,7 @@ sections:
     actions:
       - type: Link
         label: See all artwork
-        url: /projects
+        url: /artwork
     showDate: false
     showDescription: true
     showFeaturedImage: true
