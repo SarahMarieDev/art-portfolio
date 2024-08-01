@@ -20,7 +20,7 @@ media:
   type: ImageBlock
   url: /images/SchlueterSarah_Week5_PCollage_Final.jpg
   altText: Painterly Collage Image
-  caption: Caption of the image
+  caption: Painterly Collage
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
