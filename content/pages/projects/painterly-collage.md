@@ -31,4 +31,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+socialImage: /images/SchlueterSarah_Week5_PCollage_Final.jpg
 ---
