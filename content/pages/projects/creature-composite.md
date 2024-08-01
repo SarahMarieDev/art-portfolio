@@ -14,7 +14,7 @@ featuredImage:
   type: ImageBlock
   url: /images/SchlueterSarah_Week7_CreatureComposite_Final.jpg
   altText: Project thumbnail image
-  caption: ''
+  caption: Creature Composite Image
   elementId: ''
 media:
   type: ImageBlock
