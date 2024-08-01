@@ -20,7 +20,7 @@ media:
   type: ImageBlock
   url: /images/SchlueterSarah_Week7_CreatureComposite_Final.jpg
   altText: Project image
-  caption: Caption of the image
+  caption: Creature Composite Image
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
