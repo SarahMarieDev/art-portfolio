@@ -31,40 +31,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-bottomSections:
-  - type: MediaGallerySection
-    title: Pixel Art Sprites
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/SchlueterSarah_Week9_ResearchChoice_Final.jpg
-        altText: Full Image
-        caption: Full Image
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Tree.png
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
+bottomSections: []
 ---
