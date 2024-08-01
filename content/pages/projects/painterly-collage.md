@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Painterly Collage
 date: '2024-06-28'
-client: UWS - ART 101
+client: UWS - Introduction to Art / Digital Art
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
