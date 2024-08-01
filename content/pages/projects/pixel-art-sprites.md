@@ -38,7 +38,7 @@ bottomSections:
     images:
       - type: ImageBlock
         url: /images/SchlueterSarah_Week9_ResearchChoice_Final.jpg
-        altText: Image one
+        altText: Full Image
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
