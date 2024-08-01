@@ -21,7 +21,7 @@ media:
   type: ImageBlock
   url: /images/SchlueterSarah_Week8_ResearchChoice_Final.jpg
   altText: Project image
-  caption: Caption of the image
+  caption: Pixel Art Simple Landscape
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
