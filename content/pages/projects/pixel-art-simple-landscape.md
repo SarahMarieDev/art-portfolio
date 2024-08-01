@@ -13,7 +13,7 @@ description: >-
   setting the stage for more complex future works.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/SchlueterSarah_Week8_ResearchChoice_Final.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
