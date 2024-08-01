@@ -42,7 +42,7 @@ bottomSections:
         caption: Full Image
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/Tree.png
         altText: Image two
         caption: Image two caption
         elementId: ''
