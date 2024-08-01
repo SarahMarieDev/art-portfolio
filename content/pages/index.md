@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m a developer, digital artist, and consultant.'
-    subtitle: 'This is a collection of my artworks, enjoy!'
+    subtitle: >-
+      This is a collection of my projects and artworks from the past few years.
+      Feel free to contact me for hire, collab or just to say hello!
     styles:
       self:
         height: auto
