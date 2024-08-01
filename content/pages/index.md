@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m a developer, digital artist, and consultant.'
-    subtitle: 'This is a collection of my artworks, enjoy!'
+    subtitle: >-
+      This is a collection of my projects and artworks from the past few years.
+      Feel free to contact me for hire, collab, questions or just to say hello!
     styles:
       self:
         height: auto
@@ -49,8 +51,8 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
-        url: /projects
+        label: See all artwork
+        url: /artwork
     showDate: false
     showDescription: true
     showFeaturedImage: true
@@ -81,7 +83,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Artwork
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
