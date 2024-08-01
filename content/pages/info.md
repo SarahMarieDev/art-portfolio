@@ -227,28 +227,6 @@ sections:
               - pl-0
               - pb-0
               - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
     columns: 2
     spacingX: 60
     spacingY: 60
