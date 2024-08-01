@@ -37,7 +37,7 @@ bottomSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/SchlueterSarah_Week9_ResearchChoice_Final.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
