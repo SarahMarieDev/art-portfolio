@@ -152,7 +152,7 @@ sections:
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: Adobe Photoshop
       - type: Label
         label: Next.js
       - type: Label
