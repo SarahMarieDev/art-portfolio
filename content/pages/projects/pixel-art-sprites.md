@@ -34,7 +34,7 @@ backgroundImage:
 bottomSections:
   - type: MediaGallerySection
     title: Pixel Art Sprites
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/SchlueterSarah_Week9_ResearchChoice_Final.jpg
