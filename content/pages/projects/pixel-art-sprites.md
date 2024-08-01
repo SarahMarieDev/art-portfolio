@@ -12,7 +12,7 @@ description: >-
   practice my skills in creating pixel sprites.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/SchlueterSarah_Week9_ResearchChoice_Final.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
