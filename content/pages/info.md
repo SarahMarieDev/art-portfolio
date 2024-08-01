@@ -160,7 +160,7 @@ sections:
       - type: Label
         label: Pancakes
       - type: Label
-        label: '#'
+        label: C#
       - type: Label
         label: Swift
   - type: DividerSection
