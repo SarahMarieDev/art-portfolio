@@ -16,7 +16,7 @@
             {
                 "type": "Link",
                 "label": "Artwork",
-                "url": "/projects"
+                "url": "/artwork"
             }
         ],
         "socialLinks": [
