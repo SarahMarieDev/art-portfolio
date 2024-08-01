@@ -58,7 +58,8 @@ sections:
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
-    projects: []
+    projects:
+      - content/pages/projects/painterly-collage.md
     styles:
       self:
         height: auto
