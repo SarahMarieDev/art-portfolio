@@ -33,7 +33,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: Pixel Art Sprites
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
