@@ -60,6 +60,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/painterly-collage.md
+      - content/pages/projects/pixel-art-simple-landscape.md
     styles:
       self:
         height: auto
