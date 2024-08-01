@@ -4,8 +4,12 @@ title: Pixel Art Sprites
 date: '2024-07-27'
 client: UWS - Introduction to Art / Digital Art
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  In this ART 101 project, I expanded on my previous pixel art work by creating
+  detailed characters and objects (or "Sprites") inspired by the game "Stardew
+  Valley." I focused on line work, managing "jaggies," and using anti-aliasing
+  to smooth edges. To add depth, I incorporated highlights and shadows,
+  particularly in the tree leaves and trunk. This project allowed me to further
+  practice my skills in creating pixel sprites.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
