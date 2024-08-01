@@ -90,7 +90,7 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://codepen.io/sarahmarie73/pens/public'
         styles:
           self:
             textAlign: left
