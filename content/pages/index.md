@@ -4,17 +4,19 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg5.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+  url: /images/bg5.jpg
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
     title: 'I’m a developer, digital artist, and consultant.'
-    subtitle: 'This is a collection of my artworks, enjoy!'
+    subtitle: >-
+      This is a collection of my projects and artworks from the past few years.
+      Feel free to contact me for hire, collab, questions or just to say hello!
     styles:
       self:
         height: auto
@@ -49,7 +51,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: See all artwork
         url: /projects
     showDate: false
     showDescription: true
@@ -57,9 +59,9 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
+      - content/pages/projects/painterly-collage.md
+      - content/pages/projects/pixel-art-simple-landscape.md
+      - content/pages/projects/pixel-art-sprites.md
     styles:
       self:
         height: auto
@@ -81,7 +83,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Artwork
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
