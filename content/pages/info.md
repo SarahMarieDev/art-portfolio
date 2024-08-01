@@ -82,7 +82,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/sarahschlueter1/'
         styles:
           self:
             textAlign: left
