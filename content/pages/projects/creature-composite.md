@@ -12,7 +12,7 @@ description: >-
   ability to blend organic and mechanical elements creatively.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/SchlueterSarah_Week7_CreatureComposite_Final.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
