@@ -181,7 +181,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      <sarahmarie73@gmail.com>
+      <mailto:sarahmarie73@gmail.com>
   - type: DividerSection
     styles:
       self:
