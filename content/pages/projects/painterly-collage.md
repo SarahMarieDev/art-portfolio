@@ -19,7 +19,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/SchlueterSarah_Week5_PCollage_Final.jpg
-  altText: Project image
+  altText: Painterly Collage Image
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
