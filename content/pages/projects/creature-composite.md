@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Creature Composite
 date: '2024-07-10'
-client: Awesome client
+client: UWS - Introduction to Art / Digital Art
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
