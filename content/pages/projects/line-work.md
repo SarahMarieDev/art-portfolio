@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/IMG_0446.jpeg
-  altText: Project image
+  altText: Girl with Violin
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
