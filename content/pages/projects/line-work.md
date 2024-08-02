@@ -31,7 +31,7 @@ bottomSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/IMG_0446.jpeg
         altText: Girl with Violin
         caption: Girl with Violin
         elementId: ''
