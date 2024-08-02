@@ -13,9 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ### Hello, I'm Sarah. I'm a developer, digital artist and consultant out
-      of Central Wisconsin. 
+    text: |+
+      ### When I'm not working, I enjoy cooking/baking, gaming and cycling.
+
+
 
     media:
       type: ImageBlock
