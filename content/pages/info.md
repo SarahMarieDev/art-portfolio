@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-      ###
-
+    text: ''
     media:
       type: ImageBlock
       url: /images/Untitled.jpeg
