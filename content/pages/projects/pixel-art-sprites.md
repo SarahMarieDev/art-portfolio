@@ -10,18 +10,6 @@ description: >-
   to smooth edges. To add depth, I incorporated highlights and shadows,
   particularly in the tree leaves and trunk. This project allowed me to further
   practice my skills in creating pixel sprites.
-featuredImage:
-  type: ImageBlock
-  url: /images/SchlueterSarah_Week9_ResearchChoice_Final.jpg
-  altText: Project thumbnail image
-  caption: ''
-  elementId: ''
-media:
-  type: ImageBlock
-  url: /images/SchlueterSarah_Week9_ResearchChoice_Final.jpg
-  altText: Project image
-  caption: Caption of the image
-  elementId: ''
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
@@ -32,4 +20,16 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 bottomSections: []
+featuredImage:
+  type: ImageBlock
+  url: /images/SchlueterSarah_Week9_ResearchChoice copy 2.jpg
+  altText: Pixel Art Sprites
+  caption: Pixel Art Sprites
+  elementId: ''
+media:
+  type: ImageBlock
+  url: /images/SchlueterSarah_Week9_ResearchChoice copy 2.jpg
+  altText: Pixel Art Sprites
+  caption: Pixel Art Sprites
+  elementId: ''
 ---
