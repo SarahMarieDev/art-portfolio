@@ -85,4 +85,5 @@ sections:
         justifyContent: flex-end
     subtitle: Artwork
 addTitleSuffix: true
+socialImage: /images/SchlueterSarah_Week5_PCollage_Final.jpg
 ---
