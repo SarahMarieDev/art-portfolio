@@ -17,6 +17,16 @@
                 "type": "Link",
                 "label": "Artwork",
                 "url": "/projects"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/home",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
