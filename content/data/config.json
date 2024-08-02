@@ -58,7 +58,8 @@
                 "type": "Link",
                 "label": "About",
                 "url": "/info",
-                "altText": ""
+                "altText": "",
+                "showIcon": true
             },
             {
                 "type": "Link",
