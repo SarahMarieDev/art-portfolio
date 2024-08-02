@@ -16,12 +16,6 @@ featuredImage:
   altText: Project thumbnail image
   caption: ''
   elementId: ''
-media:
-  type: ImageBlock
-  url: /images/SchlueterSarah_Week9_ResearchChoice_Final.jpg
-  altText: Project image
-  caption: Caption of the image
-  elementId: ''
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
