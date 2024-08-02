@@ -32,7 +32,7 @@ bottomSections:
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
-        altText: Image one
+        altText: Girl with Violin
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
