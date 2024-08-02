@@ -46,6 +46,9 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: >-
+      Hello, I'm Sarah. I'm a developer, digital artist and consultant out of
+      Central Wisconsin.
   - type: DividerSection
     styles:
       self:
