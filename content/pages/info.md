@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |+
-      ### When I'm not working, I enjoy cooking/baking, gaming and cycling.
-
-
+      ###
 
     media:
       type: ImageBlock
