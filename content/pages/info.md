@@ -17,7 +17,8 @@ sections:
       I'm available for open source contribution, collab or any other cool
       projects. When I'm not working, I love being outdoors, either cycling or
       hiking. I also enjoy cooking, baking, gaming and reading. Lately I'm
-      really into Genshin Impact and honing my pixel art painting skills.
+      really into Genshin Impact and honing my pixel art painting skills. Keep
+      checking back for updates!
     media:
       type: ImageBlock
       url: /images/Untitled.jpeg
