@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Fairy Dancer - Line Art
 date: '2023-05-17'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
