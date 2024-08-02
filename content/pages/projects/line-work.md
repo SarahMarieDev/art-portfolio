@@ -6,7 +6,7 @@ client: ''
 description: Some line art drawings made in Procreate.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/IMG_0446.jpeg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
