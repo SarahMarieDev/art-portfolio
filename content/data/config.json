@@ -59,7 +59,7 @@
                 "label": "About",
                 "url": "/info",
                 "altText": "",
-                "showIcon": true
+                "showIcon": false
             },
             {
                 "type": "Link",
