@@ -78,7 +78,8 @@
                 "url": "https://github.com/SarahMarieDev",
                 "altText": "My Github",
                 "icon": "github",
-                "showIcon": true
+                "showIcon": true,
+                "iconPosition": "left"
             }
         ],
         "copyrightText": "Copyright @ 2024 - Sarah Schlueter\n",
