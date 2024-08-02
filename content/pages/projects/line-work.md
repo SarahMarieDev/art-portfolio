@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/IMG_0446.jpeg
   altText: Girl with Violin
-  caption: Caption of the image
+  caption: Girl with Violin
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
