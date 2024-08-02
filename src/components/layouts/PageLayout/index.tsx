@@ -4,6 +4,7 @@ import BaseLayout from '../BaseLayout';
 import { DynamicComponent } from '../../components-registry';
 import { PageLayout, PageComponentProps } from '@/types';
 
+
 type ComponentProps = PageComponentProps & PageLayout;
 
 const Component: React.FC<ComponentProps> = (props) => {
