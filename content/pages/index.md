@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Sarah's Portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -84,4 +84,6 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Artwork
+addTitleSuffix: true
+socialImage: /images/Untitled.jpeg
 ---
