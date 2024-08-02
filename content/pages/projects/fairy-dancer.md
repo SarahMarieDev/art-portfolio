@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Girl With Violin - Line Art
+title: Fairy Dancer - Line Art
 date: '2023-05-17'
 client: Awesome client
 description: >-
