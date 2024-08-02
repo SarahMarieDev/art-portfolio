@@ -60,7 +60,7 @@
                 "url": "/info",
                 "altText": "",
                 "showIcon": true,
-                "icon": "chevronLeft",
+                "icon": "chevronRight",
                 "iconPosition": "left"
             },
             {
