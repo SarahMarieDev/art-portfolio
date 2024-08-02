@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ### Hello, I'm Sarah. I'm a developer, digital artist and consultant out
-      of Central Wisconsin. When I'm not working, I enjoy cooking/baking, gaming
-      and cycling.
-
+    text: >
+      When I'm not working, I love being outdoors, either cycling or hiking. I
+      also enjoy cooking, baking, gaming and reading. Lately I'm really into
+      Genshin Impact and honing my pixel art painting skills. I'm available for
+      open source contribution, collab or any other cool projects so please feel
+      free to connect either here or on my Discord!
     media:
       type: ImageBlock
       url: /images/Untitled.jpeg
@@ -46,6 +47,8 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: 'Hello, I''m Sarah. '
+    subtitle: 'I''m a developer, digital artist and consultant out of Central Wisconsin.'
   - type: DividerSection
     styles:
       self:
