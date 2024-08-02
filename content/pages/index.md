@@ -84,4 +84,5 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Artwork
+addTitleSuffix: true
 ---
