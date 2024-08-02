@@ -10,12 +10,6 @@ featuredImage:
   altText: Project thumbnail image
   caption: ''
   elementId: ''
-media:
-  type: ImageBlock
-  url: /images/IMG_0446.jpeg
-  altText: Girl with Violin
-  caption: Girl with Violin
-  elementId: ''
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
