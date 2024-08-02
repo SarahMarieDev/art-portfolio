@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Procreate Line Art Pieces
 date: '2023-05-01'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
