@@ -15,8 +15,7 @@ sections:
     backgroundSize: full
     text: >+
       ### Hello, I'm Sarah. I'm a developer, digital artist and consultant out
-      of Central Wisconsin. When I'm not working, I enjoy cooking/baking, gaming
-      and cycling.
+      of Central Wisconsin. 
 
     media:
       type: ImageBlock
