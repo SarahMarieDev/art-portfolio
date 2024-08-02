@@ -23,7 +23,7 @@ bottomSections: []
 featuredImage:
   type: ImageBlock
   url: /images/SchlueterSarah_Week9_ResearchChoice copy 2.jpg
-  altText: altText of the image
+  altText: Pixel Art Sprites
   caption: Caption of the image
   elementId: ''
 ---
