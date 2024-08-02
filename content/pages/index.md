@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Sarah's Portfolio
+title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
