@@ -62,7 +62,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Email Me",
                 "url": "mailto:sarahmarie73@gmail.com",
                 "altText": "",
                 "showIcon": true,
