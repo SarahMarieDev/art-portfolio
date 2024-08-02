@@ -14,11 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      I'm available for open source contribution, collab or any other cool
-      projects. When I'm not working, I love being outdoors, either cycling or
-      hiking. I also enjoy cooking, baking, gaming and reading. Lately I'm
-      really into Genshin Impact and honing my pixel art painting skills. Keep
-      checking back for updates!
+      When I'm not working, I love being outdoors, either cycling or hiking. I
+      also enjoy cooking, baking, gaming and reading. Lately I'm really into
+      Genshin Impact and honing my pixel art painting skills. I'm available for
+      open source contribution, collab or any other cool projects so please feel
+      free to connect either here or on my Discord!
     media:
       type: ImageBlock
       url: /images/Untitled.jpeg
