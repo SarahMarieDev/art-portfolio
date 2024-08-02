@@ -104,5 +104,6 @@
             "addressAltText": "",
             "elementId": ""
         }
-    }
+    },
+    "favicon": "/images/favicon.svg"
 }
