@@ -22,7 +22,7 @@
                 "type": "Link",
                 "label": "Learn more",
                 "altText": "",
-                "url": "/home",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
