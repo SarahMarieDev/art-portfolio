@@ -65,7 +65,8 @@
                 "label": "Contact",
                 "url": "mailto:sarahmarie73@gmail.com",
                 "altText": "",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "mail"
             },
             {
                 "type": "Link",
