@@ -86,4 +86,8 @@ sections:
     subtitle: Artwork
 addTitleSuffix: true
 socialImage: /images/Untitled.jpeg
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
