@@ -66,7 +66,7 @@ bottomSections:
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to receive my updates
+          label: Sign me up to receive updates
           isRequired: false
           width: full
           type: CheckboxFormControl
