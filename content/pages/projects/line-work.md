@@ -33,7 +33,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/gallery-1.jpg
         altText: Girl with Violin
-        caption: Image one caption
+        caption: Girl with Violin
         elementId: ''
       - type: ImageBlock
         url: /images/gallery-2.jpg
