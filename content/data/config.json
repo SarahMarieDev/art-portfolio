@@ -76,16 +76,6 @@
                 "altText": "My Github"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "715-600-2117",
-            "phoneAltText": "My phone number",
-            "email": "sarahmarie73@gmail.com",
-            "emailAltText": "My email",
-            "address": "",
-            "addressAltText": ""
-        },
         "copyrightText": "Copyright @ 2024 - Sarah Schlueter\n",
         "styles": {
             "self": {
