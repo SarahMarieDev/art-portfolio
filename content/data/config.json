@@ -1,6 +1,5 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -56,33 +55,32 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About",
                 "url": "/info",
-                "altText": ""
+                "altText": "",
+                "showIcon": true,
+                "icon": "chevronRight",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Email Me",
                 "url": "mailto:sarahmarie73@gmail.com",
-                "altText": ""
+                "altText": "",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/SarahMarieDev",
-                "altText": "My Github"
+                "altText": "My Github",
+                "icon": "github",
+                "showIcon": true,
+                "iconPosition": "left"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "715-600-2117",
-            "phoneAltText": "My phone number",
-            "email": "sarahmarie73@gmail.com",
-            "emailAltText": "My email",
-            "address": "",
-            "addressAltText": ""
-        },
         "copyrightText": "Copyright @ 2024 - Sarah Schlueter\n",
         "styles": {
             "self": {
@@ -94,6 +92,17 @@
                     "pl-4"
                 ]
             }
+        },
+        "contacts": {
+            "type": "ContactBlock",
+            "title": "Contact details",
+            "phoneNumber": "715.600.2117",
+            "phoneAltText": "Phone",
+            "email": "sarahmarie73@gmail.com",
+            "emailAltText": "Email",
+            "address": "",
+            "addressAltText": "",
+            "elementId": ""
         }
     }
 }
